@@ -1,5 +1,5 @@
 [package]
-name = "thread_nocrypt_rand"
+name = "thread_small_rng"
 version = "0.1.0"
 edition = "2021"
 
